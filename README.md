@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+A page that shows the capabilities of the react library 
+1. Run npm start from the main folder
+
 In the project directory, you can run:
 
 ### `npm start`
